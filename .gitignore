@@ -1,1 +1,5 @@
 bootstrap-3.3.7-dist
+.DS_Store
+.idea/homepage.iml
+.idea/modules.xml
+.idea/workspace.xml
